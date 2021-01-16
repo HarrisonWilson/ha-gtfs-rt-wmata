@@ -1,4 +1,6 @@
-# Home Assistant Realtime GTFS
+# Home Assistant Realtime GTFS - WMATA Edition
+
+Fork of `https://github.com/zacs/ha-gtfs-rt` for WMATA
 
 This project contains a new sensor that provides real-time departure data for
 local transit systems that provide gtfs feeds.

@@ -1,9 +1,9 @@
 {
     "domain": "gtfs_rt",
-    "name": "GTFS-Realtime",
-    "documentation": "https://github.com/zacs/ha-gtfs-rt",
+    "name": "GTFS-Realtime-WMATA",
+    "documentation": "https://github.com/zacs/ha-gtfs-rt-wmata",
     "dependencies": [],
-    "codeowners": ["@zacs"],
+    "codeowners": ["@HarrisonWilson"],
     "requirements": [
         "gtfs-realtime-bindings==0.0.5",
         "protobuf==3.6.1"
